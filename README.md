@@ -3,7 +3,7 @@
 An SDN-based monitoring system that uses LSTM/GRU networks and Reinforcement Learning to move from reactive to **proactive** network telemetry. Instead of polling at a fixed rate, the system predicts congestion before it happens and only activates high-fidelity monitoring when it's needed.
 
 **Team:** Diego Alas, Gilberto Romero Cano, Corey Green, JJ Wagner
-**Course:** CSCI 4930 HL1 — CU Denver
+**Course:** CSCI 4930 HL1 @ CU Denver
 
 ---
 
